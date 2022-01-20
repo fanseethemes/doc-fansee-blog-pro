@@ -10,4 +10,4 @@ Create a flawless platform to share your contents and impress anyone who lands o
 ### PREVIEW
 ![fanseeblogpro](https://user-images.githubusercontent.com/64481312/150294637-a8f585e4-67ab-4528-9e32-29bdc4ea655b.PNG)
 
-.[Click Here for Documentation] (https://fanseethemes.github.io/doc-fansee-blog-pro/)
+![Click Here for Documentation] (https://fanseethemes.github.io/doc-fansee-blog-pro/)
