@@ -7,4 +7,5 @@ If you are someone who loves sharing your experience or write about things you l
 This makes sure that your website ranks up higher on search engines reaching out to more audience scale.
 Create a flawless platform to share your contents and impress anyone who lands on the site only with Fansee Blog Pro.
 
-###PREVIEW![fanseeblogpro](https://user-images.githubusercontent.com/64481312/150294637-a8f585e4-67ab-4528-9e32-29bdc4ea655b.PNG)
+### PREVIEW
+![fanseeblogpro](https://user-images.githubusercontent.com/64481312/150294637-a8f585e4-67ab-4528-9e32-29bdc4ea655b.PNG)
